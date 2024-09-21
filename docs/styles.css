@@ -50,6 +50,37 @@ footer {
     color: #fff;
 }
 
+.footer-contact {
+    margin-top: 20px;
+}
+
+.footer-contact h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #d2a660; 
+    margin-bottom: 15px;
+}
+
+.footer-contact p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.footer-contact p i {
+    margin-right: 10px;
+    color: #d2a660; 
+}
+
+.footer-contact a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    text-decoration: underline;
+}
+
 .newsletter form {
     display: flex;
     margin-top: 15px;
