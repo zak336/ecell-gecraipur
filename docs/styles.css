@@ -96,6 +96,6 @@ footer {
 .social-icons img {
     width: 20px;
     height: 20px;
-    flex-direction: row;
     display: flex;
+    flex-direction: row;
 }
