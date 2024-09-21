@@ -87,7 +87,6 @@ footer {
 .footer-bottom p {
     color: #bbb;
     font-size: 14px;
-    flex-direction: row;
 }
 
 .social-icons a {
@@ -97,4 +96,6 @@ footer {
 .social-icons img {
     width: 20px;
     height: 20px;
+    flex-direction: row;
+    display: flex;
 }
