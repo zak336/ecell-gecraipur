@@ -50,6 +50,10 @@ footer {
     color: #fff;
 }
 
+.footer-ecell-logo img {
+    transform: scale(0.425);
+}
+
 .footer-contact {
     margin-top: 20px;
 }
